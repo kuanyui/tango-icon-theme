@@ -4,7 +4,7 @@ from pathlib import Path
 import sys
 from typing import List, Sequence
 
-SPDX_LINE: str = "<!-- SPDX-License-Identifier: GPL-2.0-only OR GPL-3.0-only -->\n"
+SPDX_LINE: str = "<!-- SPDX-License-Identifier: GPL-2.0-only OR GPL-3.0-only -->"
 HEAD_SCAN_BYTES: int = 1024
 
 
@@ -39,9 +39,10 @@ def insert_spdx_header_to_file(file_path: Path) -> None:
             idx += 2
             seg0 = ori_svg[:idx]
             seg1 = ori_svg[idx:]
-            if seg1.startswith('\n'):
-                seg1 = seg1[1:]
-            new_svg = seg0 + "\n" + SPDX_LINE + seg1
+            # NOTE: Inkscape seems always add extra new line after SPDX line...
+            # if seg1.startswith('\n'):
+            #     seg1 = seg1[1:]
+            new_svg = seg0 + "\n" + SPDX_LINE + "\n" + seg1
         else:
             new_svg = SPDX_LINE + ori_svg
     else:
