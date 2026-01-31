@@ -1,1 +1,29 @@
-The icons in this repository are herefore released into the Public Domain.
+Copyright (c) 2005-2009, 2021, 2026. freedesktop.org Tango Desktop
+Project contributors.
+
+This project is dual-licensed under the terms of:
+
+* GNU General Public License v2.0 (see LICENSES/GPL-2.0-only.txt)
+* GNU General Public License v3.0 (see LICENSES/GPL-3.0-only.txt)
+
+The "any later version" clause does NOT apply.
+
+This choice was made to maximize compatibility with GPL-licensed GUI
+applications (mainstream in FLOSS GUI applications) and to lower the
+barrier for contribution. Thanks for your understanding.
+
+---
+
+Voluntarily Display Credits
+
+    The last but not the least, I wish Tango Desktop Project not to be
+    forgotten. Therefore, while GPLv2 and GPLv3 licenses do not permit
+    adding extra obligations, we would greatly appreciate it if you
+    choose to credit the original authors in your project:
+
+    "Tango Desktop Project contributors from freedesktop.org"
+
+    Either in About UI, documentation, or acknowledgements.
+
+    This is a voluntary request and has **no** effect on your rights
+    under the GPL.
