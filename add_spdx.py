@@ -16,19 +16,21 @@ def run_git(args: Sequence[str]) -> str:
 
 
 def get_modified_svg_file_paths() -> List[Path]:
-    output: str = run_git(["diff", "--name-only", "HEAD^", "HEAD"])
+    """Files that are staged (cached) but not yet committed."""
+    # output: str = run_git(["diff", "--name-only", "HEAD^", "HEAD"])  # modified files in previous commit
+    output: str = run_git([ "diff", "--cached", "--name-only", "--diff-filter=ACM" ])   # staged (cached) but not commited yet file.
     return [
         Path(p) for p in output.splitlines()
         if p.lower().endswith(".svg") and Path(p).is_file()
     ]
 
 
-def has_spdx_at_top(file_path: Path) -> bool:
+def has_spdx_in_file_header(file_path: Path) -> bool:
     with file_path.open("rb") as f:
         return b"SPDX-License-Identifier:" in f.read(HEAD_SCAN_BYTES)
 
 
-def insert_spdx(file_path: Path) -> None:
+def insert_spdx_header_to_file(file_path: Path) -> None:
     ori_svg: str = file_path.read_text(encoding="utf-8", errors="ignore")
     new_svg: str
     if ori_svg.lstrip().startswith("<?xml"):
@@ -44,25 +46,31 @@ def insert_spdx(file_path: Path) -> None:
             new_svg = SPDX_LINE + ori_svg
     else:
         new_svg = SPDX_LINE + ori_svg
-
     file_path.write_text(new_svg, encoding="utf-8")
 
 
 def main() -> int:
+    to_apply = "--apply" in sys.argv
     files: List[Path] = get_modified_svg_file_paths()
     if not files:
-        print("No modified SVG files in the latest git commit. Skip.")
         return 0
-
+    files_without_spdx: List[Path] = []
     for f in files:
-        if has_spdx_at_top(f):
-            print(f"{f} Already contains SPDX. Skip.")
+        if has_spdx_in_file_header(f):
             continue
+        files_without_spdx.append(f)
+        if to_apply:
+            print(f"[LOG] Add SPDX to {f}")
+            insert_spdx_header_to_file(f)
         else:
-            print(f"Adding SPDX to {f}")
-            insert_spdx(f)
-
-    return 0
+            print(f"[WARN] {f} missing SPDX.")
+    if to_apply:
+        return 0
+    else:
+        if files_without_spdx:
+            print(f"[WARN] Some modified SVG files have no SPDX comment. Please run `./add_spdx.py --apply`")
+            return -1
+        return 0
 
 
 if __name__ == "__main__":
