@@ -1,19 +1,25 @@
 # Tango Icon Theme
-This is a fork from [sebkur/tango-icon-theme](http://github.com/sebkur/tango-icon-theme)
 
-This was a long process of digital archaeology...
+A modest renaissance of [Freedesktop Tango Project](https://en.wikipedia.org/wiki/Tango_Desktop_Project).
 
-1. [tango-icon-theme-0.8.90.tar.bz2](http://tango.freedesktop.org/releases/tango-icon-theme-0.8.90.tar.bz2) final release available on freedesktop.org, **but it provides PNG only, except 48x48 are in SVG**. The official site of Freedesktop Tango Project has already been down... This URL is found in [AUR](https://aur.archlinux.org/packages/tango-icon-theme)...
-2. Git repo ([cgit](https://cgit.freedesktop.org/tango/tango-icon-theme/), [gitlab](https://gitlab.freedesktop.org/tango/tango-icon-theme)) can be found in [freedesktop](https://cgit.freedesktop.org/), **but it lacks lots of original Tango icons... It looks more like... a draft of `gnome-icon-theme`**. Maybe it was faults of the administrators of freedesktop.org when migrating CVS server into git repo, mistakenly excluded lots of old SVG source code... Argh.
-3. **Fortunately, [Debian's package server](https://tracker.debian.org/pkg/tango-icon-theme) still** remains a full (I guess) snapshot of source code and VCS ([src pkg](https://sources.debian.org/src/tango-icon-theme/0.9.0-1), [git](https://git.golem.linux.it/matteobin/tango-icon-theme)), contains many useful SVG files! Heritage of forgotten ancient civilizations! **Thank you Debian!**
-  - However, the source code git repo I found on Debian already contains only 1 initial commit... No commit history is preserved... But its `README.md` described:
-    > This is a fork of Tango icon theme based on the 0.8.90-11 version of the Debian package and this Git repository <https://github.com/sebkur/tango-icon-theme>, to add XDG user directory icons, PDF MIME type icon, restore the missing scalable mail-mark-not-junk.svg icon from 0.8.90, and include some Debian patches. Tango icon theme was forked because upstream is dead.
-4. **At last**, I found [sebkur/tango-icon-theme](http://github.com/sebkur/tango-icon-theme) still preserves commit history, so I decide to fork it. (out of nostalgia, respect to the original authors, and as records of the history of the Linux desktop in the 2000s.)
+This is a fork from [sebkur/tango-icon-theme](http://github.com/sebkur/tango-icon-theme).
+
+> ## Origin
+> This was a long process of digital archaeology...
+>
+> 1. [tango-icon-theme-0.8.90.tar.bz2](http://tango.freedesktop.org/releases/tango-icon-theme-0.8.90.tar.bz2) final release available on freedesktop.org, **but it provides PNG only, except 48x48 are in SVG**. The official site of Freedesktop Tango Project has already been down... This URL is found in [AUR](https://aur.archlinux.org/packages/tango-icon-theme)...
+> 2. Git repo ([cgit](https://cgit.freedesktop.org/tango/tango-icon-theme/), [gitlab](https://gitlab.freedesktop.org/tango/tango-icon-theme)) can be found in [freedesktop](https://cgit.freedesktop.org/), **but it lacks lots of original Tango icons... It looks more like... a draft of `gnome-icon-theme`**. Maybe it was faults of the administrators of freedesktop.org when migrating CVS server into git repo, mistakenly excluded lots of old SVG source code... Argh.
+> 3. **Fortunately, [Debian's package server](https://tracker.debian.org/pkg/tango-icon-theme) still** remains a full (I guess) snapshot of source code and VCS ([src pkg](https://sources.debian.org/src/tango-icon-theme/0.9.0-1), [git](https://git.golem.linux.it/matteobin/tango-icon-theme)), contains many useful SVG files! Heritage of forgotten ancient civilizations! **Thank you Debian!**
+>   - However, the source code git repo I found on Debian already contains only 1 initial commit... No commit history is preserved... But its `README.md` described:
+>     > This is a fork of Tango icon theme based on the 0.8.90-11 version of the Debian package and this Git repository <https://github.com/sebkur/tango-icon-theme>, to add XDG user directory icons, PDF MIME type icon, restore the missing scalable mail-mark-not-junk.svg icon from 0.8.90, and include some Debian patches. Tango icon theme was forked because upstream is dead.
+> 4. **At last**, I found [sebkur/tango-icon-theme](http://github.com/sebkur/tango-icon-theme) still preserves commit history, so **I decide to fork it**. (out of nostalgia, respect to the original authors, and as records of the history of the Linux desktop in the 2000s.)
 
 ## Differences against original repo
 
 - Lots of source file of Tango Icon Theme is rasterized `*.xcf` instead of vectorized `*.svg`, so if I have time, they may be (slowly) re-drawn to SVG manually...
-- `scalable/` is renamed to `48x48/` because they are really 48x48, to fit the size naming in `gnome-icon-theme`
+- `scalable/` is renamed to `48x48/` because they are really 48x48.
+- Draw more icons.
+- As an alternative of Ubuntu Humanity or GNOME Icon Theme, especially for compatibility of (L)GPLv2/v3.
 
 ------
 
