@@ -332,9 +332,9 @@
      inkscape:label="Layer 1"
      id="layer1">
     <ellipse
-       transform="matrix(0.964288,0,0,1.013327,-7.206631,-11.93016)"
+       transform="matrix(0.66551224,0,0,0.69935696,-5.0588225,-7.3038982)"
        id="path4475"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.171123;fill:url(#radialGradient1942);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.171123;fill:url(#radialGradient1942);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.44894;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
        cx="24.130018"
        cy="37.967922"
        rx="16.528622"
@@ -342,7 +342,7 @@
     <ellipse
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#radialGradient1950);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.2533;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
        id="path4485"
-       transform="matrix(0.26477477,0,0,0.32427435,3.4709955,7.6080135)"
+       transform="matrix(0.26477477,0,0,0.32427435,3.4709955,7.2330135)"
        cx="24.130018"
        cy="37.967922"
        rx="16.528622"
