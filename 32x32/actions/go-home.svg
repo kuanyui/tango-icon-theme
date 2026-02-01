@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- SPDX-License-Identifier: GPL-2.0-only OR GPL-3.0-only -->
+
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
    height="32"
    overflow="visible"
@@ -15,19 +9,26 @@
    xml:space="preserve"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
+   inkscape:version="1.4.2 (unknown)"
    sodipodi:docname="go-home.svg"
-   sodipodi:docbase="/home/lapo/Desktop/tango-icon-theme/32x32/actions"
    version="1.0"
    inkscape:export-filename="/home/tigert/My Downloads/go-home.png"
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape"><metadata
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
    id="metadata367"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><cc:license
-         rdf:resource="http://creativecommons.org/licenses/publicdomain/" /><dc:title>Go Home</dc:title><dc:creator><cc:Agent><dc:title>Jakub Steiner</dc:title></cc:Agent></dc:creator><dc:source>http://jimmac.musichall.cz</dc:source><dc:subject><rdf:Bag><rdf:li>home</rdf:li><rdf:li>return</rdf:li><rdf:li>go</rdf:li><rdf:li>default</rdf:li><rdf:li>user</rdf:li><rdf:li>directory</rdf:li></rdf:Bag></dc:subject><dc:contributor><cc:Agent><dc:title>Tuomas Kuosmanen</dc:title></cc:Agent></dc:contributor></cc:Work><cc:License
-       rdf:about="http://creativecommons.org/licenses/publicdomain/"><cc:permits
+         rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" /><dc:title>Go Home</dc:title><dc:creator><cc:Agent><dc:title>Jakub Steiner</dc:title></cc:Agent></dc:creator><dc:source>http://jimmac.musichall.cz</dc:source><dc:subject><rdf:Bag><rdf:li>home</rdf:li><rdf:li>return</rdf:li><rdf:li>go</rdf:li><rdf:li>default</rdf:li><rdf:li>user</rdf:li><rdf:li>directory</rdf:li></rdf:Bag></dc:subject><dc:contributor><cc:Agent><dc:title>Tuomas Kuosmanen, kuanyui</dc:title></cc:Agent></dc:contributor></cc:Work><cc:License
+       rdf:about="http://creativecommons.org/publicdomain/zero/1.0/"><cc:permits
          rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
          rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:permits
          rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /></cc:License></rdf:RDF></metadata><defs
@@ -328,7 +329,7 @@
    inkscape:window-y="218"
    inkscape:current-layer="svg2"
    fill="#555753"
-   showgrid="false"
+   showgrid="true"
    stroke="#a40000"
    showguides="false"
    inkscape:guide-bbox="true"
@@ -337,21 +338,26 @@
    showborder="false"
    gridtolerance="10000"
    inkscape:grid-points="true"
-   inkscape:grid-bbox="false"><sodipodi:guide
+   inkscape:grid-bbox="false"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"><sodipodi:guide
      orientation="horizontal"
      position="12.28598"
-     id="guide2075" /><inkscape:grid
-     id="GridFromPre046Settings"
-     type="xygrid"
-     originx="0px"
-     originy="0px"
-     spacingx="0.5px"
-     spacingy="0.5px"
-     color="#0000ff"
-     empcolor="#0000ff"
-     opacity="0.2"
-     empopacity="0.4"
-     empspacing="2" /></sodipodi:namedview>
+     id="guide2075"
+     inkscape:locked="false" /><inkscape:grid
+     id="grid1"
+     units="px"
+     originx="0"
+     originy="0"
+     spacingx="1"
+     spacingy="1"
+     empcolor="#0099e5"
+     empopacity="0.30196078"
+     color="#0099e5"
+     opacity="0.14901961"
+     empspacing="5"
+     enabled="true"
+     visible="true" /></sodipodi:namedview>
 	
 <g
    style="display:inline"
@@ -371,8 +377,8 @@
      d="M -1559.2523,-150.68038 C -1559.2523,-150.68038 -1559.2523,327.65041 -1559.2523,327.65041 C -1702.1265,328.55086 -1904.6525,220.48075 -1904.6525,88.454235 C -1904.6525,-43.572302 -1745.2157,-150.68036 -1559.2523,-150.68038 z "
      id="path5018"
      sodipodi:nodetypes="cccc" /></g><path
-   style="color:black;fill:url(#linearGradient2031);fill-opacity:1;fill-rule:nonzero;stroke:#757575;stroke-width:1.00000083;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
-   d="M 14.434426,5.4555702 L 18.356907,5.4555702 C 18.9098,5.4555702 27.499976,15.631542 27.499976,16.228395 L 27.207954,28.422651 C 27.207954,29.019505 26.762845,29.500007 26.209954,29.500007 L 5.498001,29.500007 C 4.945108,29.500007 4.4999998,29.019505 4.4999998,28.422651 L 4.5371857,16.228395 C 4.5371857,15.631542 13.881533,5.4555702 14.434426,5.4555702 z "
+   style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient2031);fill-opacity:1;fill-rule:nonzero;stroke:#757575;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+   d="m 14.434426,5.4555702 h 3.922481 c 0.552893,0 9.143069,10.1759718 9.143069,10.7728248 l -0.0264,12.194256 c 0,0.596854 -0.445109,1.077356 -0.998,1.077356 H 5.498001 c -0.552893,0 -0.9980012,-0.480502 -0.9980012,-1.077356 l 0.037186,-12.194256 c 0,-0.596853 9.3443473,-10.7728248 9.8972403,-10.7728248 z"
    id="rect1512"
    sodipodi:nodetypes="ccccccccc" /><path
    style="fill:none"
@@ -385,8 +391,8 @@
    sodipodi:nodetypes="ccccc" /><path
    sodipodi:nodetypes="ccccccccc"
    id="path2357"
-   d="M 14.628201,6.2703769 L 18.18405,6.2703769 C 18.685263,6.2703769 26.499988,15.650734 26.499988,16.200923 L 26.277931,28.065012 C 26.277931,28.364187 26.185991,28.490699 25.950193,28.490699 L 5.8735284,28.500002 C 5.6377312,28.500002 5.4999991,28.44794 5.4999991,28.204545 L 5.6377413,16.200923 C 5.6377413,15.650734 14.126989,6.2703769 14.628201,6.2703769 z "
-   style="opacity:0.3125;color:black;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:white;stroke-width:1.0000006;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible" /><path
+   d="m 14.628201,6.2703769 h 3.555849 c 0.501213,0 8.315938,9.3803571 8.315938,9.9305461 l -0.03456,11.864089 c 0,0.299175 -0.09194,0.425687 -0.327738,0.425687 l -20.2641646,0.0093 c -0.2357972,0 -0.3735293,-0.05206 -0.3735293,-0.295457 L 5.6377413,16.200923 c 0,-0.550189 8.4892477,-9.9305461 8.9904597,-9.9305461 z"
+   style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.3125;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none" /><path
    clip-rule="evenodd"
    d="M 4.8050221,18.628695 L 4.7688509,20.358826 L 17.0143,11.572652 L 27.205235,19.008941 L 27.252775,18.801131 L 16.339132,8.1983721 L 4.8050221,18.628695 z "
    id="path23"
