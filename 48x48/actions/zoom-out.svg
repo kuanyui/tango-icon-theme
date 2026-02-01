@@ -371,9 +371,9 @@
     </g>
     <path
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:59.9011px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#75a1d0;fill-opacity:1;stroke:#3465a4;stroke-width:1.82498px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 37.808457,28.838485 V 21.480219 L 8.5441705,21.489119 8.5084565,28.8206 37.808457,28.83845 Z"
+       d="M 37.808457,28.838485 V 21.480219 L 8.5441705,21.489119 8.5084565,28.8206 Z"
        id="text1314"
-       sodipodi:nodetypes="cccccc"
+       sodipodi:nodetypes="ccccc"
        transform="matrix(0.54794872,0,0,0.54794872,5.84024,3.7300913)" />
     <path
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:59.9011px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.408602;fill:url(#linearGradient4975);fill-opacity:1;stroke:url(#linearGradient7922);stroke-width:2.22873px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:markers fill stroke"
