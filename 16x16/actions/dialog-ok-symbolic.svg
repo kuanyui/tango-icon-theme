@@ -28,18 +28,6 @@
   <defs
      id="defs3">
     <linearGradient
-       id="linearGradient10"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#c0dd0e;stop-opacity:1;"
-         offset="0"
-         id="stop11" />
-      <stop
-         style="stop-color:#728506;stop-opacity:1;"
-         offset="1"
-         id="stop10" />
-    </linearGradient>
-    <linearGradient
        id="linearGradient8"
        inkscape:collect="always">
       <stop
@@ -76,21 +64,10 @@
        id="linearGradient6"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,-0.50276862,0.50346762,0,-1.2951993,21.08247)"
-       x1="27.391756"
-       y1="13.838075"
-       x2="5.2060537"
-       y2="17.251259" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10"
-       id="radialGradient11"
-       cx="19"
-       cy="37.275158"
-       fx="19"
-       fy="37.275158"
-       r="18.006416"
-       gradientTransform="matrix(0.47717102,-0.02382542,0.02623872,0.52404601,-4.1850093,-6.5005515)"
-       gradientUnits="userSpaceOnUse" />
+       x1="30.999348"
+       y1="6.5450072"
+       x2="8.119978"
+       y2="16.476133" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient8"
@@ -101,6 +78,28 @@
        y2="16"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.71628652,0,0,0.71541754,0.19025283,1.5127656)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2591"
+       id="radialGradient1356"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.36628099,0.03842538,-0.03257968,-0.31055823,20.586958,18.883591)"
+       cx="37.440914"
+       cy="26.797785"
+       fx="37.440914"
+       fy="26.797785"
+       r="16.9562" />
+    <linearGradient
+       id="linearGradient2591">
+      <stop
+         id="stop2593"
+         offset="0"
+         style="stop-color:#73d216" />
+      <stop
+         id="stop2595"
+         offset="1.0000000"
+         style="stop-color:#4e9a06" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      stroke="#788600"
@@ -177,7 +176,7 @@
      inkscape:groupmode="layer">
     <path
        id="rect2"
-       style="opacity:1;fill:url(#radialGradient11);stroke:#707d00;stroke-width:0.999993;stroke-miterlimit:10;stroke-opacity:1;paint-order:markers fill stroke"
+       style="opacity:1;fill:url(#radialGradient1356);stroke:#3a7304;stroke-width:1;stroke-miterlimit:10;stroke-opacity:1;paint-order:markers fill stroke;font-variation-settings:normal;vector-effect:none;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;-inkscape-stroke:none;marker:none;marker-start:none;marker-mid:none;marker-end:none;stop-color:#000000;stop-opacity:1"
        d="m 0.63688235,7.91517 c -0.1884959,0.188245 -0.18850078,0.4907586 1.7e-7,0.6789986 l 3.73077348,3.7255954 1.2566442,1.254899 0.018985,0.01896 c 0.2356106,0.235283 0.6152067,0.235283 0.8508161,0 L 15.364182,4.7358546 c 0.235611,-0.2352828 0.305352,-0.5446868 0,-0.8496346 L 13.372265,1.8969431 c -0.235601,-0.2352902 -0.615203,-0.2352809 -0.850815,0 L 6.0686943,8.3406167 3.4796157,5.7552566 c -0.1885017,-0.1882399 -0.4914399,-0.1882399 -0.6799415,0 z"
        sodipodi:nodetypes="scccscsssscccs" />
     <rect

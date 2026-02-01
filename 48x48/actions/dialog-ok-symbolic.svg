@@ -28,18 +28,6 @@
   <defs
      id="defs3">
     <linearGradient
-       id="linearGradient10"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#c0dd0e;stop-opacity:1;"
-         offset="0"
-         id="stop11" />
-      <stop
-         style="stop-color:#728506;stop-opacity:1;"
-         offset="1"
-         id="stop10" />
-    </linearGradient>
-    <linearGradient
        id="linearGradient8"
        inkscape:collect="always">
       <stop
@@ -101,8 +89,8 @@
        gradientTransform="matrix(0,-1.171926,1.171926,0,1.782801,54.10111)"
        x1="27.391756"
        y1="13.838075"
-       x2="5.2060537"
-       y2="17.251259" />
+       x2="11.179128"
+       y2="18.104555" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient8"
@@ -114,15 +102,26 @@
        gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient10"
-       id="radialGradient11"
-       cx="19"
-       cy="37.275158"
-       fx="19"
-       fy="37.275158"
-       r="18.006416"
-       gradientTransform="matrix(1.1107152,-0.05553574,0.0610761,1.2215223,-4.3802097,-10.477258)"
-       gradientUnits="userSpaceOnUse" />
+       xlink:href="#linearGradient2591"
+       id="radialGradient1356"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.05897545,-0.64873023,1.0138935,-0.0921721,29.892814,97.200495)"
+       cx="97.99826"
+       cy="-4.0569582"
+       fx="97.99826"
+       fy="-4.0569582"
+       r="16.9562" />
+    <linearGradient
+       id="linearGradient2591">
+      <stop
+         id="stop2593"
+         offset="0"
+         style="stop-color:#73d216" />
+      <stop
+         id="stop2595"
+         offset="1.0000000"
+         style="stop-color:#4e9a06" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      stroke="#788600"
@@ -206,7 +205,7 @@
        ry="5.4662638" />
     <path
        id="rect2"
-       style="opacity:1;fill:url(#radialGradient11);stroke:#707d00;stroke-miterlimit:10;stroke-opacity:1;paint-order:markers fill stroke"
+       style="opacity:1;fill:url(#radialGradient1356);stroke:#3a7304;stroke-miterlimit:10;stroke-opacity:1;paint-order:markers fill stroke;font-variation-settings:normal;vector-effect:none;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;-inkscape-stroke:none;marker:none;marker-start:none;marker-mid:none;marker-end:none;stop-color:#000000;stop-opacity:1"
        d="m 6.84375,23.125 c -0.438775,0.438775 -0.438775,1.143929 3e-7,1.582704 l 8.6841547,8.684155 2.925102,2.925102 0.04419,0.04419 c 0.548431,0.548432 1.43202,0.548432 1.980452,0 L 41.124617,15.71419 c 0.548432,-0.548432 0.548432,-1.43202 0,-1.980452 l -2.969296,-2.969296 c -0.548431,-0.548432 -1.43202,-0.548432 -1.980452,0 L 19.487427,27.451886 11.793499,19.757957 c -0.438777,-0.438776 -1.143929,-0.438776 -1.582706,0 z" />
     <rect
        style="opacity:1;fill:#99b00b;fill-opacity:1;stroke-width:1;stroke-miterlimit:10;-inkscape-stroke:none;paint-order:markers fill stroke"
