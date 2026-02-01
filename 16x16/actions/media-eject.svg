@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- SPDX-License-Identifier: GPL-2.0-only OR GPL-3.0-only -->
+
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
    height="16"
    id="svg1307"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
-   sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/16x16/actions"
+   inkscape:version="1.4.2 (unknown)"
    sodipodi:docname="media-eject.svg"
    inkscape:export-filename="/home/jimmac/src/cvs/tango-icon-theme/16x16/actions/media-eject.png"
    inkscape:export-xdpi="90"
@@ -22,7 +16,15 @@
    version="1.0"
    inkscape:r_cx="true"
    inkscape:r_cy="true"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs1309">
     <inkscape:perspective
@@ -102,91 +104,113 @@
      inkscape:window-x="562"
      inkscape:window-y="160"
      showborder="true"
-     inkscape:showpageshadow="false">
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
        orientation="horizontal"
        position="38.996647"
-       id="guide2194" />
+       id="guide2194"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="horizontal"
        position="9.0140845"
-       id="guide2196" />
+       id="guide2196"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="vertical"
        position="9.0140845"
-       id="guide2198" />
+       id="guide2198"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="vertical"
        position="38.975184"
-       id="guide2200" />
+       id="guide2200"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="horizontal"
        position="22.988281"
-       id="guide2202" />
+       id="guide2202"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="vertical"
        position="23.908786"
-       id="guide2204" />
+       id="guide2204"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="vertical"
        position="157.99417"
-       id="guide4332" />
+       id="guide4332"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="horizontal"
        position="-36.062446"
-       id="guide4334" />
+       id="guide4334"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="horizontal"
        position="-58.02695"
-       id="guide4336" />
+       id="guide4336"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="vertical"
        position="180.00287"
-       id="guide4338" />
+       id="guide4338"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="vertical"
        position="107.92217"
-       id="guide4417" />
+       id="guide4417"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="vertical"
        position="129.93087"
-       id="guide4419" />
+       id="guide4419"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="horizontal"
        position="19.996875"
-       id="guide5106" />
+       id="guide5106"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="horizontal"
        position="63.039674"
-       id="guide5119" />
+       id="guide5119"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="horizontal"
        position="49.066305"
-       id="guide5121" />
+       id="guide5121"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="horizontal"
        position="-86.007168"
-       id="guide5307" />
+       id="guide5307"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="horizontal"
        position="-108.09009"
-       id="guide5309" />
+       id="guide5309"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="horizontal"
        position="-100.15429"
-       id="guide3111" />
+       id="guide3111"
+       inkscape:locked="false" />
     <inkscape:grid
-       id="GridFromPre046Settings"
-       type="xygrid"
-       originx="0px"
-       originy="0px"
-       spacingx="0.5px"
-       spacingy="0.5px"
-       color="#0000ff"
-       empcolor="#0000ff"
-       opacity="0.2"
-       empopacity="0.4"
-       empspacing="2" />
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata1312">
@@ -203,7 +227,7 @@
           </cc:Agent>
         </dc:creator>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
         <dc:subject>
           <rdf:Bag>
             <rdf:li>media</rdf:li>
@@ -217,7 +241,7 @@
         </dc:contributor>
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
