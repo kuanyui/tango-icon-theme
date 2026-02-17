@@ -23,6 +23,8 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">stock_save</title>
   <defs
      id="defs4">
     <inkscape:perspective
@@ -51,13 +53,13 @@
          offset="0"
          style="stop-color:#858585;stop-opacity:1;" />
       <stop
-         style="stop-color:#cbcbcb;stop-opacity:1;"
+         style="stop-color:#f2f2f2;stop-opacity:1;"
          offset="0.5"
          id="stop2356" />
       <stop
          id="stop2354"
          offset="1"
-         style="stop-color:#6b6b6b;stop-opacity:1;" />
+         style="stop-color:#969696;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -74,11 +76,11 @@
     <linearGradient
        id="linearGradient2263">
       <stop
-         style="stop-color:#1e2d69;stop-opacity:1;"
+         style="stop-color:#651e69;stop-opacity:1;"
          offset="0"
          id="stop2265" />
       <stop
-         style="stop-color:#78a7e0;stop-opacity:1;"
+         style="stop-color:#db9cde;stop-opacity:1;"
          offset="1"
          id="stop2267" />
     </linearGradient>
@@ -108,8 +110,8 @@
        id="linearGradient2348"
        x1="20.125"
        y1="21.84375"
-       x2="28.5625"
-       y2="42.46875"
+       x2="29.621067"
+       y2="49.100788"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.511232,0.000000,0.000000,0.562366,-2.143237,-4.612614)" />
     <radialGradient
@@ -173,11 +175,6 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <cc:license
            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>Tuomas Kuosmanen</dc:title>
-          </cc:Agent>
-        </dc:creator>
         <dc:subject>
           <rdf:Bag>
             <rdf:li>save</rdf:li>
@@ -189,12 +186,22 @@
             <rdf:li>floppy</rdf:li>
           </rdf:Bag>
         </dc:subject>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>kuanyui</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>2026-02-17</dc:date>
+        <dc:title>stock_save</dc:title>
+        <dc:source>https://github.com/kuanyui/tango-icon-theme</dc:source>
+        <dc:description>For old-fasioned floppy save icon (instead of the HDD + arrow in `document-save`), therefore use the name `stock_save` originated from GTK2.x era.
+
+Forked from http://www.tango-project.org</dc:description>
         <dc:contributor>
           <cc:Agent>
-            <dc:title />
+            <dc:title>Tuomas Kuosmanen &lt;tigert@novell.com&gt;</dc:title>
           </cc:Agent>
         </dc:contributor>
-        <dc:source>http://www.tango-project.org</dc:source>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
@@ -222,7 +229,7 @@
        d="M 47.1875 41.15625 A 22.875 6.15625 0 1 1  1.4375,41.15625 A 22.875 6.15625 0 1 1  47.1875 41.15625 z"
        transform="matrix(0.433133,0.000000,0.000000,0.476830,0.374230,-0.560021)" />
     <path
-       style="fill:url(#linearGradient2269);fill-opacity:1;stroke:#3465a4;stroke-width:1.00000072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:url(#linearGradient2269);fill-opacity:1;stroke:#9937a2;stroke-width:1.00000072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 1.2065868,0.5032709 L 20.739339,0.5345209 C 21.012178,0.5345209 21.496993,1.0255977 21.496993,1.3062147 L 21.496993,19.816488 C 21.496993,20.097103 21.100566,20.499792 20.827727,20.499792 L 2.5495465,20.468542 C 2.5495465,20.468542 0.5060705,18.447133 0.5060705,18.447133 L 0.5373205,1.1865764 C 0.5373205,0.90595939 0.93374759,0.5032709 1.2065868,0.5032709 z "
        id="rect2259"
        sodipodi:nodetypes="ccccccccc" />
@@ -249,7 +256,7 @@
        height="2.3947227"
        width="16"
        id="rect2330"
-       style="opacity:1;fill:#d31c00;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#9937a2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        style="opacity:0.48863633;fill:none;fill-opacity:1;stroke:url(#linearGradient2283);stroke-width:1.00000024;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 1.5371753,1.5277293 L 20.427587,1.5277293 C 20.461547,1.5277293 20.444188,19.492228 20.410228,19.492228 L 3.2088647,19.475737 C 3.2088647,19.475737 1.5626723,17.942863 1.5626723,17.942863 C 1.5626723,17.942863 1.5032159,1.5277293 1.5371753,1.5277293 z "

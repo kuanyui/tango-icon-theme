@@ -23,6 +23,8 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">stock_save</title>
   <sodipodi:namedview
      inkscape:window-height="688"
      inkscape:window-width="1034"
@@ -106,11 +108,11 @@
       <stop
          id="stop2265"
          offset="0"
-         style="stop-color:#1e2d69;stop-opacity:1;" />
+         style="stop-color:#651e69;stop-opacity:1;" />
       <stop
          id="stop2267"
          offset="1"
-         style="stop-color:#78a7e0;stop-opacity:1;" />
+         style="stop-color:#d492d8;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient2277"
@@ -133,9 +135,9 @@
       <stop
          id="stop2356"
          offset="0.5"
-         style="stop-color:#cbcbcb;stop-opacity:1;" />
+         style="stop-color:#f1f1f1;stop-opacity:1;" />
       <stop
-         style="stop-color:#6b6b6b;stop-opacity:1;"
+         style="stop-color:#969696;stop-opacity:1;"
          offset="1"
          id="stop2354" />
     </linearGradient>
@@ -194,8 +196,8 @@
        gradientTransform="matrix(0.641673,0,0,0.743096,0.640885,-1.958578)"
        x1="40.884724"
        y1="71.869133"
-       x2="16.879831"
-       y2="-0.38931385" />
+       x2="20.288889"
+       y2="16.765772" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -256,7 +258,7 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:creator>
           <cc:Agent>
-            <dc:title>Tuomas Kuosmanen</dc:title>
+            <dc:title>kuanyui</dc:title>
           </cc:Agent>
         </dc:creator>
         <dc:subject>
@@ -266,15 +268,21 @@
             <rdf:li>store</rdf:li>
             <rdf:li>file</rdf:li>
             <rdf:li>io</rdf:li>
-            <rdf:li>floppy</rdf:li>
             <rdf:li>media</rdf:li>
+            <rdf:li>floppy</rdf:li>
           </rdf:Bag>
         </dc:subject>
         <cc:license
            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:title>stock_save</dc:title>
+        <dc:date>2026-02-17</dc:date>
+        <dc:source>https://github.com/kuanyui/tango-icon-theme</dc:source>
+        <dc:description>For old-fasioned floppy save icon (instead of the HDD + arrow in `document-save`), therefore use the name `stock_save` originated from GTK2.x era.
+
+Forked from http://www.tango-project.org</dc:description>
         <dc:contributor>
           <cc:Agent>
-            <dc:title>Jakub Steiner, Lapo Calamanadrei</dc:title>
+            <dc:title>Tuomas Kuosmanen &lt;tigert@novell.com&gt;, Jakub Steiner, Lapo Calamanadrei</dc:title>
           </cc:Agent>
         </dc:contributor>
       </cc:Work>
@@ -315,7 +323,7 @@
          style="opacity:0.40206185;color:black;fill:url(#radialGradient1926);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible" />
     </g>
     <path
-       style="fill:url(#linearGradient1991);fill-opacity:1;stroke:#25375f;stroke-width:0.9999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:url(#linearGradient1991);fill-opacity:1;stroke:#9a3ea2;stroke-width:0.9999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
        d="M 3.2648034,2.5000008 L 28.817277,2.5000008 C 29.204467,2.5000008 29.516176,2.8092994 29.516176,3.1934954 L 29.516176,27.814873 C 29.516176,28.199069 29.204467,28.508368 28.817277,28.508368 L 4.5788829,28.508368 C 4.5788829,28.508368 2.5659046,26.510955 2.5659046,26.510955 L 2.5659046,3.1934954 C 2.5659046,2.8092994 2.8776134,2.5000008 3.2648034,2.5000008 z "
        id="rect2259"
        sodipodi:nodetypes="ccccccccc" />
@@ -334,7 +342,7 @@
        height="2"
        width="20"
        id="rect2330"
-       style="fill:#d31c00;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="fill:#9a3ea2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
        style="opacity:0.73863639;fill:black;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2332"
@@ -367,7 +375,7 @@
        id="rect2340"
        sodipodi:nodetypes="ccccccc" />
     <rect
-       style="fill:#4967a2;fill-opacity:1;stroke:#525252;stroke-width:0.99999887;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#a561a9;fill-opacity:1;stroke:#525252;stroke-width:0.99999887;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2359"
        width="2.9999955"
        height="6.0000076"
@@ -375,5 +383,9 @@
        y="20.499998"
        rx="0.51200956"
        ry="0.48479843" />
+    <path
+       style="opacity:0.596591;fill:none;fill-opacity:1;stroke:url(#linearGradient1982);stroke-linejoin:miter;stroke-opacity:1;paint-order:markers fill stroke;font-variation-settings:normal;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000;stop-opacity:1"
+       d="M 14,21.588854 H 12.573242 V 26"
+       id="path1" />
   </g>
 </svg>

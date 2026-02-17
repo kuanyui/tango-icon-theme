@@ -20,7 +20,11 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">stock_save</title>
   <defs
      id="defs4">
     <inkscape:perspective
@@ -108,13 +112,13 @@
          offset="0"
          style="stop-color:#858585;stop-opacity:1;" />
       <stop
-         style="stop-color:#cbcbcb;stop-opacity:1;"
+         style="stop-color:#f2f2f2;stop-opacity:1;"
          offset="0.5"
          id="stop2356" />
       <stop
          id="stop2354"
          offset="1"
-         style="stop-color:#6b6b6b;stop-opacity:1;" />
+         style="stop-color:#969696;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -131,11 +135,11 @@
     <linearGradient
        id="linearGradient2263">
       <stop
-         style="stop-color:#1e2d69;stop-opacity:1;"
+         style="stop-color:#b843bd;stop-opacity:1;"
          offset="0"
          id="stop2265" />
       <stop
-         style="stop-color:#78a7e0;stop-opacity:1;"
+         style="stop-color:#db9cde;stop-opacity:1;"
          offset="1"
          id="stop2267" />
     </linearGradient>
@@ -145,8 +149,8 @@
        id="linearGradient2269"
        x1="40.884724"
        y1="71.869133"
-       x2="16.879831"
-       y2="-0.38931385"
+       x2="10.685702"
+       y2="17.785009"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.976612,0.000000,0.000000,1.139789,0.564215,-3.271158)" />
     <linearGradient
@@ -220,7 +224,38 @@
   </sodipodi:namedview>
   <metadata
      id="metadata7">
-    <rdf:RDF />
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>stock_save</dc:title>
+        <dc:date>2026-02-17</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>kuanyui</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>https://github.com/kuanyui/tango-icon-theme</dc:source>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>save</rdf:li>
+            <rdf:li>document</rdf:li>
+            <rdf:li>store</rdf:li>
+            <rdf:li>file</rdf:li>
+            <rdf:li>io</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>floppy</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>For old-fasioned floppy save icon (instead of the HDD + arrow in `document-save`), therefore use the name `stock_save` originated from GTK2.x era.
+
+Forked from http://www.tango-project.org</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Tuomas Kuosmanen &lt;tigert@novell.com&gt;</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+    </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
@@ -248,7 +283,7 @@
          style="opacity:0.40206185;color:black;fill:url(#radialGradient6719);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible" />
     </g>
     <path
-       style="fill:url(#linearGradient2269);fill-opacity:1;stroke:#25375f;stroke-width:1.00000012;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:url(#linearGradient2269);fill-opacity:1;stroke:#9a3ea2;stroke-width:1.00000012;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
        d="M 4.5577604,3.5675797 L 43.448063,3.5675797 C 44.037357,3.5675797 44.511771,4.0419938 44.511771,4.6312883 L 44.511771,42.396499 C 44.511771,42.985793 44.037357,43.460207 43.448063,43.460207 L 6.5577604,43.460207 C 6.5577604,43.460207 3.4940519,40.396499 3.4940519,40.396499 L 3.4940519,4.6312883 C 3.4940519,4.0419938 3.9684659,3.5675797 4.5577604,3.5675797 z "
        id="rect2259"
        sodipodi:nodetypes="ccccccccc" />
@@ -267,7 +302,7 @@
        height="4"
        width="30"
        id="rect2330"
-       style="opacity:1;fill:#d31c00;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#9a3ea2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
        style="opacity:0.73863639;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2332"
@@ -300,7 +335,7 @@
        id="rect2340"
        sodipodi:nodetypes="ccccccc" />
     <rect
-       style="opacity:1;fill:#4967a2;fill-opacity:1;stroke:#525252;stroke-width:0.99999958;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#cd7ad1;fill-opacity:1;stroke:#525252;stroke-width:0.99999958;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2359"
        width="5.0297527"
        height="10.06597"
