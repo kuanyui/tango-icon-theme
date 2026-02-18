@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- SPDX-License-Identifier: GPL-2.0-only OR GPL-3.0-only -->
+
+<svg
+   version="1.1"
+   viewBox="0 0 22 22"
+   id="svg2"
+   sodipodi:docname="emblem-warning.svg"
+   inkscape:version="1.4.2 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">emblem-warning</title>
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,2.3444537,0,1 @ F,0,0,1,0,2.3444537,0,1 @ F,0,0,1,0,2.3444537,0,1"
+       radius="3"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10"
+       id="linearGradient11"
+       x1="7.9435563"
+       y1="-3.4456594"
+       x2="7.9435563"
+       y2="4.6975002"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient10"
+       inkscape:collect="always"
+       x1="0.5"
+       y1="-0.5"
+       x2="0.5"
+       y2="0.5">
+      <stop
+         style="stop-color:#fcaf3e;stop-opacity:1;"
+         offset="0"
+         id="stop10" />
+      <stop
+         style="stop-color:#f57900;stop-opacity:1;"
+         offset="1"
+         id="stop11" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect10"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1"
+       radius="2"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9"
+       id="linearGradient10-5"
+       x1="7.9969034"
+       y1="1.0027094"
+       x2="7.9969034"
+       y2="19"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient9"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.506935;"
+         offset="0"
+         id="stop9" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.10104355;"
+         offset="1"
+         id="stop10-0" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect12"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,1.4593707,0,1 @ F,0,0,1,0,1.4593707,0,1 @ F,0,0,1,0,1.4593707,0,1"
+       radius="1.9"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       id="grid2"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <style
+     type="text/css"
+     id="current-color-scheme">
+        .ColorScheme-NeutralText {
+            color:#f67400;
+        }
+    </style>
+  <path
+     sodipodi:type="star"
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient11);fill-opacity:1;stroke:#ce5c00;stroke-width:0.647613;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:normal;stop-color:#000000;stop-opacity:1"
+     id="path9"
+     inkscape:flatsided="true"
+     sodipodi:sides="3"
+     sodipodi:cx="8"
+     sodipodi:cy="1"
+     sodipodi:r1="8.2591925"
+     sodipodi:r2="4.1295962"
+     sodipodi:arg1="0.52359878"
+     sodipodi:arg2="1.5707963"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 12.808217,5.1295963 -9.6164338,-1e-7 A 1.353571,1.353571 60 0 1 2.0195563,3.0992397 L 6.8277732,-5.228836 a 1.353571,1.353571 2.5219891e-7 0 1 2.3444537,0 l 4.8082171,8.3280758 a 1.353571,1.353571 120 0 1 -1.172227,2.0303565 z"
+     inkscape:transform-center-y="-3.1893588"
+     transform="matrix(1.5436332,0,0,1.5446353,-1.3490658,11.603748)"
+     inkscape:path-effect="#path-effect2" />
+  <path
+     d="m 11.456248,7.0957657 c -0.213499,-0.1056756 -0.451267,-0.1240229 -0.713101,-0.054397 -0.276969,0.07365 -0.469033,0.2062943 -0.574915,0.3968887 -0.107362,0.1911259 -0.16322,0.3911438 -0.167573,0.6001841 -0.00436,0.209298 0.01298,0.4902341 0.05316,0.8427935 l 0.672558,5.3304 0.661396,-0.175875 0.562456,-5.2351369 c 0.07524,-0.5125482 0.06534,-0.8999922 -0.0309,-1.1610297 C 11.824641,7.3827979 11.669736,7.20157 11.456223,7.0957661 Z"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.999996"
+     id="path1" />
+  <path
+     d="M 7.2703345,3.3751917 1.5773218,13.236136 A 0.84258334,0.84258334 59.99955 0 0 2.307027,14.5 h 11.385946 a 0.84258332,0.84258332 120.00045 0 0 0.729705,-1.263864 L 8.7296655,3.3751916 a 0.84253754,0.84253754 180 0 0 -1.459331,10e-8 z"
+     style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#linearGradient10-5);stroke-width:0.768084;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+     id="path11"
+     inkscape:path-effect="#path-effect12"
+     inkscape:original-d="M 8,2.1113281 0.84765625,14.5 H 15.152344 Z"
+     transform="matrix(1.3069676,0,0,1.2969332,0.54425882,-0.31383673)" />
+  <path
+     id="path9-9"
+     fill="#f57900"
+     d="m 11.459548,15.111933 c 0.244453,0.124126 0.407922,0.317908 0.490269,0.580887 0.08086,0.258228 0.0561,0.512518 -0.07446,0.762152 -0.130578,0.249635 -0.325529,0.414896 -0.583324,0.49562 -0.257795,0.08072 -0.510745,0.05572 -0.754617,-0.07667 -0.245318,-0.131933 -0.407799,-0.327592 -0.488658,-0.585819 -0.054974,-0.17556 -0.063131,-0.348067 -0.02613,-0.517792 0.03861,-0.169602 0.115466,-0.318121 0.233503,-0.446172 0.118082,-0.127913 0.264825,-0.219876 0.440531,-0.274896 0.263554,-0.08253 0.516953,-0.06114 0.762891,0.0627 z"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.999996"
+     sodipodi:nodetypes="cscccsccscc" />
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>emblem-warning</dc:title>
+        <dc:date>2026-02-18</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>kuanyui</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>https://github.com/kuanyui/tango-icon-theme</dc:source>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>inline-warning</rdf:li>
+            <rdf:li>dialog-warning</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>An icon following Tango Design Guideline as a cross-platform replacement of the corresponding emoji.</dc:description>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Created for Freedesktop.org Tango Desktop Project</dc:title>
+          </cc:Agent>
+        </dc:rights>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
