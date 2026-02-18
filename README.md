@@ -1,10 +1,12 @@
 # Tango Icon Theme
 
+![](tango-logo.svg)
+
 A modest renaissance of [Freedesktop's Tango Desktop Project](https://en.wikipedia.org/wiki/Tango_Desktop_Project).
 
 This is a fork from [sebkur/tango-icon-theme](http://github.com/sebkur/tango-icon-theme).
 
-> ## Origin
+> # ![](48x48/places/start-here.svg) Origin
 > This was a long process of digital archaeology...
 >
 > 1. [tango-icon-theme-0.8.90.tar.bz2](http://tango.freedesktop.org/releases/tango-icon-theme-0.8.90.tar.bz2) final release available on freedesktop.org, **but it provides PNG only, except 48x48 are in SVG**. The official site of Freedesktop Tango Project has already been down... This URL is found in [AUR](https://aur.archlinux.org/packages/tango-icon-theme)...
@@ -14,7 +16,7 @@ This is a fork from [sebkur/tango-icon-theme](http://github.com/sebkur/tango-ico
 >     > This is a fork of Tango icon theme based on the 0.8.90-11 version of the Debian package and this Git repository <https://github.com/sebkur/tango-icon-theme>, to add XDG user directory icons, PDF MIME type icon, restore the missing scalable mail-mark-not-junk.svg icon from 0.8.90, and include some Debian patches. Tango icon theme was forked because upstream is dead.
 > 4. **At last**, I found [sebkur/tango-icon-theme](http://github.com/sebkur/tango-icon-theme) still preserves commit history, so **I decide to fork it**. (out of nostalgia, respect to the original authors, and as records of the history of the Linux desktop in the 2000s.)
 
-# Why Fork?
+# ![](48x48/apps/help-browser.svg) Why Fork?
 
 Maintenance of the original version of `tango-icon-theme` has been discontinued, and was relicensed from CC-BY-SA 2.5 into the Public Domain (as stated in the [0.8.90 tarball](http://tango.freedesktop.org/releases/tango-icon-theme-0.8.90.tar.bz2)) on [2009-02-26](https://tango.freedesktop.org/releases/) by original authors, **"Tango Desktop Project contributors from freedesktop.org"**.
 
@@ -27,7 +29,7 @@ I love Tango Icons, and I don't want this wonderful icon theme and these great a
 - Draw more icons.
 - As an alternative of Ubuntu Humanity or GNOME Icon Theme, especially for the compatibility of GPLv2/v3, the mainstream licenses of Linux GUI applications.
 
-# License
+# ![](48x48/mimetypes/application-certificate.svg) License
 
 Copyright (c) 2005-2009, 2021, 2026. freedesktop.org Tango Desktop Project contributors.
 
