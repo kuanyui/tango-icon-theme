@@ -210,6 +210,15 @@
          offset="1.0000000"
          id="stop7920" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4487"
+       id="linearGradient18"
+       x1="14.98739"
+       y1="4.9790406"
+       x2="14.98739"
+       y2="17.97904"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      stroke="#3465a4"
@@ -221,7 +230,7 @@
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      showgrid="true"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1-9"
      inkscape:cy="6.286574"
      inkscape:cx="-107.60427"
      inkscape:zoom="1"
@@ -377,18 +386,21 @@
        transform="matrix(0.79789168,0,0,0.79789168,-1.3898244,-0.6239627)" />
     <g
        id="g1-9"
-       transform="translate(-3.98739,-2.9790408)">
+       transform="translate(-7.98739,3.0209592)">
       <path
          sodipodi:nodetypes="cccccccc"
          id="path7751-8"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';font-variation-settings:normal;display:inline;overflow:visible;visibility:visible;vector-effect:none;fill:#729fcf;fill-opacity:1;stroke:#3465a4;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker:none;enable-background:new;stop-color:#000000"
-         d="m 320.5,144.49999 -3,1e-5 v -4.99621 h -1 v -2.14677 c 0.96466,-0.45313 1.2139,-0.84558 1.59491,-1.84806 H 320.5 Z"
-         transform="translate(-306.01261,-128.02544)" />
+         d="m 16.48739,17.47455 -3,10e-6 v -4.99621 h -1 V 10.33158 C 13.45205,9.87845 13.70129,9.486 14.0823,8.48352 h 2.40509 z" />
       <path
          id="path5"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';font-variation-settings:normal;display:inline;overflow:visible;visibility:visible;opacity:0.311828;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker:none;paint-order:markers fill stroke;enable-background:new;stop-color:#000000"
-         d="m 319.2698,135.84542 c -0.44261,0.88884 -0.46712,1.06813 -1.44261,1.69797 l -0.0334,1.31375 h 1 v 1.94727 c 0.69316,-0.0432 1.37561,-0.1794 2.02539,-0.4043 l 0.008,-4.55469 z"
-         transform="translate(-306.8398,-127.86638)"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';font-variation-settings:normal;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:url(#linearGradient18);fill-opacity:1;stroke:none;stroke-width:0.99999496px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker:none;paint-order:markers fill stroke;enable-background:new;stop-color:#000000;stop-opacity:1"
+         d="m 14.43,8.97904 c -0.44261,0.88884 -0.46712,1.06813 -1.44261,1.69797 l -0.0334,1.31375 h 1 v 1.94727 c 0.69316,-0.0432 1.37561,-0.1794 2.02539,-0.4043 l 0.008,-4.55469 z"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         id="path1"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';font-variation-settings:normal;display:inline;overflow:visible;visibility:visible;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker:none;enable-background:new;stop-color:#000000"
+         d="m 11.483669,9.7207985 0.0046,3.7752945 1,-0.01563 v 4.994141 h 5 V 7.484375 h -4.083982 c -0.296978,1.284764 -0.929381,1.9245591 -1.920628,2.2364235 z"
          sodipodi:nodetypes="cccccccc" />
     </g>
   </g>

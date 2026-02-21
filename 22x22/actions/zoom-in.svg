@@ -189,16 +189,6 @@
        x2="17.500893"
        y2="25.743469" />
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1322"
-       id="linearGradient4975-6"
-       x1="34.892849"
-       y1="36.422989"
-       x2="45.918697"
-       y2="48.547989"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-18.01785,-13.57119)" />
-    <linearGradient
        id="linearGradient1322">
       <stop
          id="stop1324"
@@ -210,15 +200,6 @@
          style="stop-color:#5187d6;stop-opacity:1.0000000;" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient7916"
-       id="linearGradient7922-3"
-       x1="16.874998"
-       y1="22.851799"
-       x2="27.900846"
-       y2="34.976799"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
        id="linearGradient7916">
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
@@ -229,6 +210,36 @@
          offset="1.0000000"
          id="stop7920" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14"
+       id="linearGradient15"
+       x1="21.111286"
+       y1="18.623598"
+       x2="21.111286"
+       y2="27.753954"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient14"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#3881d3;stop-opacity:1;"
+         offset="0"
+         id="stop14" />
+      <stop
+         style="stop-color:#8db2d9;stop-opacity:1;"
+         offset="1"
+         id="stop15" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4487"
+       id="linearGradient18"
+       x1="21.263924"
+       y1="10.83808"
+       x2="21.263924"
+       y2="32.073986"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      stroke="#3465a4"
@@ -240,7 +251,7 @@
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      showgrid="true"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1"
      inkscape:cy="6.286574"
      inkscape:cx="-107.60427"
      inkscape:zoom="1"
@@ -396,26 +407,24 @@
        transform="matrix(0.79789168,0,0,0.79789168,-1.3898244,-0.6239627)" />
     <g
        id="g1"
-       transform="matrix(0.95755359,0,0,0.95765434,-2.535399,-1.3876949)"
+       transform="matrix(0.95755359,0,0,0.95765434,-5.535399,5.6123051)"
        style="stroke-width:1.04427">
       <path
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:59.9011px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#75a1d0;fill-opacity:1;stroke:#3465a4;stroke-width:1.69129px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:59.9011px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient15);fill-opacity:1;stroke:#3465a4;stroke-width:1.69129px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-variation-settings:normal;opacity:1;vector-effect:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m 25.292197,31.135028 v -4.944865 l 5.150078,-0.04018 v -5.090275 h -5.141149 l -0.0089,-5.010793 -5.052238,0.01116 0.0045,4.981775 -5.021145,0.07366 -0.03571,5.06349 5.065788,-0.02902 0.0067,4.958258 z"
          id="text1314-9"
          sodipodi:nodetypes="ccccccccccccc"
          transform="matrix(0.61408854,0,0,0.62080488,-1.96988,-3.7940506)" />
       <path
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:59.9011px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.408602;fill:url(#linearGradient4975-6);fill-opacity:1;stroke:url(#linearGradient7922-3);stroke-width:1.69129px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 19.049411,29.699135 v -5.017103 h 5.078836 l -0.0067,-1.705093 h -5.063208 v -5.032164 l -1.700088,0.01786 0.0089,5.014306 -4.987554,0.01786 -0.02679,1.653754 5.025758,0.0089 -0.01339,5.010406 z"
-         id="path7076-1"
-         sodipodi:nodetypes="ccccccccccccc"
-         transform="matrix(0.61408854,0,0,0.62080488,0.84058537,-3.9220241)" />
-      <path
-         style="opacity:0.311828;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.98976px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="opacity:1;fill:url(#linearGradient18);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.98976px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-variation-settings:normal;vector-effect:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m 13.792429,23.699479 c 0,1.9375 19.949482,-0.96875 19.949482,-0.03125 V 21.30747 l -7.538876,0.03125 V 10.715655 H 21.323116 V 21.33872 h -7.530687 z"
          id="path7914-2"
          sodipodi:nodetypes="ccccccccc"
          transform="matrix(0.4135037,0,0,0.29503375,2.1953158,3.5588071)" />
+      <path
+         id="path1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:59.9011px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.04427px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 14.078125,5.1210938 c -1.554032,0.00455 -3.108071,0.00843 -4.6621094,0.00977 0.004,1.0351509 0.00372,2.070313 0.00586,3.1054687 -1.0253905,0.015633 -2.0507827,0.031157 -3.0761719,0.046875 -0.01308,1.7428329 -0.024257,3.4856809 -0.037109,5.2285159 1.0397012,-0.0078 2.0794281,-0.01155 3.1191406,-0.01758 0.00119,1.022135 0.00399,2.044269 0.00391,3.066406 1.7239624,0.008 3.4479304,0.01617 5.1718754,0.02734 0,-1.027995 0,-2.05599 0,-3.083985 1.054036,-0.0084 2.108068,-0.01745 3.162109,-0.02539 0,-1.748047 0,-3.4960941 0,-5.244141 -1.053385,0 -2.106771,0 -3.160156,0 -0.0012,-1.0384115 -0.004,-2.0768219 -0.0039,-3.1152344 -0.174479,6.511e-4 -0.348958,0.0013 -0.523437,0.00195 z" />
     </g>
   </g>
 </svg>
