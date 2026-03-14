@@ -15,6 +15,13 @@ This is a fork from [sebkur/tango-icon-theme](http://github.com/sebkur/tango-ico
 >   - However, the source code git repo I found on Debian already contains only 1 initial commit... No commit history is preserved... But its `README.md` described:
 >     > This is a fork of Tango icon theme based on the 0.8.90-11 version of the Debian package and this Git repository <https://github.com/sebkur/tango-icon-theme>, to add XDG user directory icons, PDF MIME type icon, restore the missing scalable mail-mark-not-junk.svg icon from 0.8.90, and include some Debian patches. Tango icon theme was forked because upstream is dead.
 > 4. **At last**, I found [sebkur/tango-icon-theme](http://github.com/sebkur/tango-icon-theme) still preserves commit history, so **I decide to fork it**. (out of nostalgia, respect to the original authors, and as records of the history of the Linux desktop in the 2000s.)
+>
+>> ## ![](32x32/apps/accessories-text-editor.svg) More References & Todos
+>> - https://github.com/gnome-colors/gnome-colors (found from https://en.m.wikipedia.org/wiki/File:Dialog-apply.svg )
+>> - https://commons.wikimedia.org/wiki/Comparison_of_icon_sets
+>>   - https://commons.wikimedia.org/wiki/GNOME_Desktop_icons
+>>   - https://commons.wikimedia.org/wiki/Tango_icons
+
 
 # ![](48x48/apps/help-browser.svg) Why Fork?
 
