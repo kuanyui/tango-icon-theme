@@ -29,7 +29,7 @@ Maintenance of the original version of `tango-icon-theme` has been discontinued,
 
 I love Tango Icons, and I don't want this wonderful icon theme and these great authors be forgotten in the tide of an era dominated by flat design. So I forked `tango-icon-theme`, try to keep the spirit and legacy of "Tango Desktop Project" alive.
 
-## Differences against the vanilla version
+# ![](48x48/actions/edit-find.svg) Differences against the Upstream
 
 - Lots of source file of Tango Icon Theme is already `*.xcf` instead of `*.svg`, so if I have time, they may be (slowly) re-drawn to SVG manually...
 - `scalable/` is renamed to `48x48/` because they are really 48x48.
