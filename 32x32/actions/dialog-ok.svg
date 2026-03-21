@@ -87,10 +87,10 @@
        id="linearGradient6"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,-0.97487554,0.97504658,0,-2.4972967,40.609083)"
-       x1="27.391756"
-       y1="13.838075"
-       x2="5.2060537"
-       y2="17.251259" />
+       x1="37.55257"
+       y1="12.251693"
+       x2="14.27769"
+       y2="15.302276" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient8"
@@ -209,22 +209,6 @@
        style="opacity:1;fill:url(#radialGradient1356);stroke:#3a7304;stroke-width:1;stroke-miterlimit:10;stroke-opacity:1;paint-order:markers fill stroke;font-variation-settings:normal;vector-effect:none;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;-inkscape-stroke:none;marker:none;marker-start:none;marker-mid:none;marker-end:none;stop-color:#000000;stop-opacity:1"
        d="m 1.7134306,14.841369 c -0.3650623,0.364999 -0.3650623,0.951587 3e-7,1.316585 l 7.225247,7.223982 2.4336951,2.433267 0.03677,0.03677 c 0.456298,0.456218 1.191447,0.456218 1.647743,0 L 30.235232,8.6766307 c 0.456298,-0.456217 0.456298,-1.1912364 0,-1.6474537 L 27.764768,4.5591454 c -0.456296,-0.4562173 -1.191446,-0.4562173 -1.647743,0 L 12.233014,18.440723 5.8316391,12.04047 c -0.365064,-0.364999 -0.9517528,-0.364999 -1.3168169,0 z"
        sodipodi:nodetypes="scccscsssscccs" />
-    <rect
-       style="opacity:1;fill:#99b00b;fill-opacity:1;stroke-width:1;stroke-miterlimit:10;-inkscape-stroke:none;paint-order:markers fill stroke"
-       id="rect5"
-       width="7"
-       height="18.65625"
-       x="83"
-       y="10"
-       ry="1.1200751" />
-    <rect
-       style="opacity:1;fill:#99b00b;fill-opacity:1;stroke-width:0.999998;stroke-miterlimit:10;-inkscape-stroke:none;paint-order:markers fill stroke"
-       id="rect6"
-       width="32"
-       height="7"
-       x="83"
-       y="22"
-       ry="1.4000001" />
     <path
        id="path6"
        style="font-variation-settings:normal;opacity:0.698864;vector-effect:none;fill:none;fill-opacity:1;stroke:url(#linearGradient6);stroke-width:0.999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:markers fill stroke;stop-color:#000000;stop-opacity:1"
