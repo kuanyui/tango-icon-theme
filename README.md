@@ -6,6 +6,11 @@ A modest renaissance of [Freedesktop's Tango Desktop Project](https://en.wikiped
 
 This is a fork from [sebkur/tango-icon-theme](http://github.com/sebkur/tango-icon-theme).
 
+> [!TIP]
+> To use these icons in a Qt (or GTK) project, see [Tango Remixer](https://kuanyui.github.io/tango-remixer/).
+>
+> You can also browse all icons in its [icon viewer](https://kuanyui.github.io/tango-remixer/viewer/).
+
 > # ![](48x48/places/start-here.svg) Origin
 > This was a long process of digital archaeology...
 >
