@@ -2,7 +2,7 @@
 
 ![](tango-logo.svg)
 
-A modest renaissance of [Freedesktop's Tango Desktop Project](https://en.wikipedia.org/wiki/Tango_Desktop_Project).
+A modest renaissance of [Freedesktop's Tango Desktop Project](https://web.archive.org/web/20250829073407/https://en.wikipedia.org/wiki/Tango_Desktop_Project).
 
 This is a fork from [sebkur/tango-icon-theme](http://github.com/sebkur/tango-icon-theme).
 
@@ -31,6 +31,8 @@ This is a fork from [sebkur/tango-icon-theme](http://github.com/sebkur/tango-ico
 # ![](48x48/apps/help-browser.svg) Why Fork?
 
 Maintenance of the original version of `tango-icon-theme` has been discontinued, and was relicensed from CC-BY-SA 2.5 into the Public Domain (as stated in the [0.8.90 tarball](http://tango.freedesktop.org/releases/tango-icon-theme-0.8.90.tar.bz2)) on [2009-02-26](https://tango.freedesktop.org/releases/) by original authors, **"Tango Desktop Project contributors from freedesktop.org"**.
+
+Not only has freedesktop.org removed the Tango Desktop website, leaving [only the tarballs](https://tango.freedesktop.org/releases/), but now even the English Wikipedia has deleted its article; only [Archive.org](https://web.archive.org/web/20250829073407/https://en.wikipedia.org/wiki/Tango_Desktop_Project) and Wikipedia in other languages (e.g. [de](https://de.wikipedia.org/wiki/Tango_Desktop_Project), [es](https://es.wikipedia.org/wiki/Tango_Desktop_Project), [ja](https://ja.wikipedia.org/wiki/Tango_Desktop_Project)) still have it... I can't figure out why it was deleted. Even more absurd, [the tango-icon-theme in the official Git repository of freedesktop.org itself is already incomplete](https://gitlab.freedesktop.org/tango/tango-icon-theme), for unknown reasons. Maybe records were lost when it was migrated from SVN or CVS to Git?
 
 I love Tango Icons, and I don't want this wonderful icon theme and these great authors be forgotten in the tide of an era dominated by flat design. So I forked `tango-icon-theme`, try to keep the spirit and legacy of "Tango Desktop Project" alive.
 
